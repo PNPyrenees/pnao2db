@@ -32,6 +32,12 @@ $ source venv/bin/activate
 (venv) $ pip install -r install/requirements.txt
 (venv) $ deactivate
 ```
+
+Initialisation du fichier de logs
+```sh
+$ mkdir log
+$ touch log.pnao2db.log
+```
  
 # Configuration
  - Copier le fichier config/config.yml.default en le renommant config.yml
