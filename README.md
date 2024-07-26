@@ -36,7 +36,7 @@ $ source venv/bin/activate
  - Initialisation du fichier de logs
 ```sh
 $ mkdir log
-$ touch pnao2db.log
+$ touch log/pnao2db.log
 ```
  
 # Configuration
