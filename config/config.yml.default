@@ -1,0 +1,19 @@
+database:
+    dbHost: 
+    dbName: 
+    dbPort: 
+    dbUser: 
+    dbPassword: 
+    ZSMCoeurTable: <schema>.<table>
+    ZSMTamponTable: <schema>.<table>
+api:
+    apiUser: 
+    apiPassword: 
+mail:
+    mailHost: 
+    mailPort: 
+    mailId: 
+    mailPass: 
+    mailDest:
+log:
+    logFile: log/pnao2db.log
