@@ -33,7 +33,7 @@ $ source venv/bin/activate
 (venv) $ deactivate
 ```
 
-Initialisation du fichier de logs
+ - Initialisation du fichier de logs
 ```sh
 $ mkdir log
 $ touch log.pnao2db.log
