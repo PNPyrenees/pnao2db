@@ -2,8 +2,6 @@ from lib.database import Database
 from lib.api import Api
 
 def main():
-    """Fonction principale de mise à jour des données GPS"""
-
     # Initialisation de la connexion à la base de données
     database = Database()
 
