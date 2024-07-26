@@ -78,7 +78,7 @@ Le chemin doit être en absolu.
 ----
  - OpenSource - GPL-3.0
  
-[![N|Solid](http://www.pyrenees-parcnational.fr/sites/parc-pyrenees.com/files/logo_pnp.jpg)](http://www.pyrenees-parcnational.fr)
+<a href="http://www.pyrenees-parcnational.fr" target="_blank"><img align="right" src="https://user-images.githubusercontent.com/85548796/134628003-895ecb51-fab1-4993-9cb9-53c3ea52d58b.png" alt="drawing" height="60"/></a>
 
-   [Geomatika]: <https://www.geomatika.fr/>
-   [PNAO]: https://pnao.geomatika.fr/
+[Geomatika]: <https://www.geomatika.fr/>
+[PNAO]: https://pnao.geomatika.fr/
